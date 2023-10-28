@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title": "Футболка",
+        "price": 50,
+        "img": "../dist/images/shirt.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Носки",
+        "price": 20,
+        "img": "../dist/images/socks.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Жакет",
+        "price": 200,
+        "img": "../dist/images/jacket.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Кроссовки",
+        "price": 100,
+        "img": "../dist/images/shoes.jpg"
+    }
+]
